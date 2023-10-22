@@ -39,7 +39,7 @@ This is a React and Redux-based email client app that emulates the features of O
     Run the project:
 
     ```bash
-    npm start
+        npm start
     ```
 
 #### Access the app in your web browser at http://localhost:3000.
