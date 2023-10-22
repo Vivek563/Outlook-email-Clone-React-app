@@ -29,8 +29,9 @@ This is a React and Redux-based email client app that emulates the features of O
     cd email-client-app
     ```
 3. Install dependencies:
-  ```bash
-    npm install
+     
+    ```bash
+        npm install
     ```
 
 ## Usage
