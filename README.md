@@ -20,7 +20,6 @@ This is a React and Redux-based email client app that emulates the features of O
 
    ```bash
    git clone <repository-url>
-
    ```
 
 2. Change to the project directory:
@@ -33,13 +32,12 @@ This is a React and Redux-based email client app that emulates the features of O
     ```bash
         npm install
     ```
+4. Run the project:
 
-## Usage
+   ```javascript
+   npm run start
+   ```
 
-    Run the project:
 
-    ```bash
-        npm run start
-    ```
 
 #### Access the app in your web browser at http://localhost:3000.
